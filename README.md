@@ -12,6 +12,8 @@ I try to solve on my own, if there is any reference, I will recored it in the *.
 2. [Python Challenge1](#PC1)
 3. [Python Challenge2](#PC2)
 4. [Python Challenge3](#PC3)
+5. [Python Challenge4](#PC4)
+6. [Python Challenge5](#PC5)
 
 
 ###Detail:
@@ -36,3 +38,13 @@ Dig into the html source code and there is the key to success.
 First idea came to me is using regular expression and everything is nice. And the page title is 're', so it is obvious. :)  
 Regular expression is a powerful tool to deal with string.  
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge3.py)
+
+####<a name='PC4'></a>[Python Challenge4](http://www.pythonchallenge.com/pc/def/linkedlist.php)
+The first page is just a new URL and so on.  And the URL 'linkedlist' reveals that there will be many item like this page.  
+So it is time to show the magic of Python urllib.  
+Dig into the source code and you will find how to solve the challenge.  
+[Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge4.py)
+
+####<a name='PC5'></a>[Python Challenge5](http://www.pythonchallenge.com/pc/def/peak.html)
+ToDo
+
