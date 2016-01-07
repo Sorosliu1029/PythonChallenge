@@ -10,6 +10,7 @@ I try to solve on my own, if there is any reference, I will recored it in the *.
 
 1. [Warm Up](#warm_up)
 2. [Python Challenge1](#PC1)
+3. [Python Challenge2](#PC2)
 
 
 ###Detail:
@@ -21,3 +22,9 @@ Warm Up game. Just to show the power of Python to calculate big number.
 Try to make full use of all the information from the page.  
 It's an easy replacement trick. Use string.*maketrans* and string.*translate* function.  
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge1.py)
+
+####<a name='PC2'></a>[Python Challenge2](http://www.pythonchallenge.com/pc/def/ocr.html)
+Dig deeper into the page, the **whole** page.  
+And you will find some secrets in the html file of the page.  
+The main task for this challenge is doing some statistics. Here reveals the power of Python in data analysis.  
+[Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge2.py)
