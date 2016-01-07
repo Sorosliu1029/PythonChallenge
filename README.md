@@ -1,6 +1,6 @@
 # PythonChallenge
 Code for practicing python, based on the [PythonChallenge](http://www.pythonchallenge.com/)  
-*PythonChallenge*  is a interesting website for **any-level** coder to pratice Python.  
+*PythonChallenge*  is an interesting website for **any-level** coder to pratice Python.  
 Here I recorded my way to solve the challenge.   
 I try to solve on my own, if there is any reference, I will recored it in the *.py file.    
 
@@ -11,6 +11,7 @@ I try to solve on my own, if there is any reference, I will recored it in the *.
 1. [Warm Up](#warm_up)
 2. [Python Challenge1](#PC1)
 3. [Python Challenge2](#PC2)
+4. [Python Challenge3](#PC3)
 
 
 ###Detail:
@@ -28,3 +29,10 @@ Dig deeper into the page, the **whole** page.
 And you will find some secrets in the html file of the page.  
 The main task for this challenge is doing some statistics. Here reveals the power of Python in data analysis.  
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge2.py)
+
+####<a name='PC3'></a>[Python Challenge3](http://www.pythonchallenge.com/pc/def/equality.html)
+The hint has clearly stated the secret of this challenge.  
+Dig into the html source code and there is the key to success.  
+First idea came to me is using regular expression and everything is nice. And the page title is 're', so it is obvious. :)  
+Regular expression is a powerful tool to deal with string.  
+[Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge3.py)
