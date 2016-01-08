@@ -46,5 +46,9 @@ Dig into the source code and you will find how to solve the challenge.
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge4.py)
 
 ####<a name='PC5'></a>[Python Challenge5](http://www.pythonchallenge.com/pc/def/peak.html)
-ToDo
+Peak Hell? At first I didn't understand the meaning and went for Google for help.  
+This challenge uses python *pickle* library, which is used to save object to file.  
+The source code has a **banner.p** file and the file contains some strange characters. Guess **banner.p** file is the pickled file, so I try to restore from it.  
+Then I get a list object, try some times and you will find the list indicates the character and the continuous number in sequence. Everything is done.  
+[Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge5.py)
 
