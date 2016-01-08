@@ -14,6 +14,7 @@ I try to solve on my own, if there is any reference, I will recored it in the *.
 4. [Python Challenge3](#PC3)
 5. [Python Challenge4](#PC4)
 6. [Python Challenge5](#PC5)
+7. [Python Challenge6](#PC6)
 
 
 ###Detail:
@@ -51,4 +52,12 @@ This challenge uses python *pickle* library, which is used to save object to fil
 The source code has a **banner.p** file and the file contains some strange characters. Guess **banner.p** file is the pickled file, so I try to restore from it.  
 Then I get a list object, try some times and you will find the list indicates the character and the continuous number in sequence. Everything is done.  
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge5.py)
+
+####<a name='PC6'></a>[Python Challenge6](http://www.pythonchallenge.com/pc/def/channel.html)
+At beginning of the source code, there is a comment **zip** reminding me of the Python function *zipfile* .  
+The very first step to solve this challenge is to modify the URL. Change the *.jpg* suffix to *.zip* and you will get a zip file. The solution lies in the zip file.  ;)
+The following steps are very easy.  
+However there is still a riddle lying in the final solution.  
+Have fun!  
+[Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge6.py)
 
