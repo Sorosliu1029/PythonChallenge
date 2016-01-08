@@ -15,6 +15,8 @@ I try to solve on my own, if there is any reference, I will recored it in the *.
 5. [Python Challenge4](#PC4)
 6. [Python Challenge5](#PC5)
 7. [Python Challenge6](#PC6)
+8. [Python Challenge7](#PC7)
+9. [Python Challenge8](#PC8)
 
 
 ###Detail:
@@ -60,4 +62,16 @@ The following steps are very easy.
 However there is still a riddle lying in the final solution.  
 Have fun!  
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge6.py)
+
+####<a name='PC7'></a>[Python Challenge7](http://www.pythonchallenge.com/pc/def/oxygen.html)
+The whole page only contains a picture, so the solution must lies in the picture.  
+Inside the picture there is a blur rectange, and use Python *PIL* library to handle picture.  
+The key to success is to find the blur rectangle area.  
+If you look carefully at the image, you will find that the vertical blur area is all the same.  
+So get the horizontal area data and convert pixel data to ASCII character.  
+[Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge7.py)
+
+####<a name='PC8'></a>[Python Challenge8](http://www.pythonchallenge.com/pc/def/integrity.html)
+Todo  
+[Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge8.py)
 
