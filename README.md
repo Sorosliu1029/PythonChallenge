@@ -17,6 +17,7 @@ I try to solve on my own, if there is any reference, I will recored it in the *.
 7. [Python Challenge6](#PC6)
 8. [Python Challenge7](#PC7)
 9. [Python Challenge8](#PC8)
+10. [Python Challenge9](#PC9)
 
 
 ###Detail:
@@ -72,6 +73,12 @@ So get the horizontal area data and convert pixel data to ASCII character.
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge7.py)
 
 ####<a name='PC8'></a>[Python Challenge8](http://www.pythonchallenge.com/pc/def/integrity.html)
-Todo  
+This challenge page shows a bee(a hint) and a hyperlink requiring user name and password.  
+The source code containing some **magic** string. It confused me a while, but there is also a hint -- `BZh91AY&SY`. 'BZ' reminds me of Linux compression file suffix *.bz*, so I guess the magic string is compressed by Bz compression format.  
+Challenge is becoming more and more challenging and attractive.  
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge8.py)
+
+####<a name='PC9'></a>[Python Challenge9](http://www.pythonchallenge.com/pc/return/good.html)
+Todo  
+[Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge9.py)
 
