@@ -18,6 +18,7 @@ I try to solve on my own, if there is any reference, I will recored it in the *.
 8. [Python Challenge7](#PC7)
 9. [Python Challenge8](#PC8)
 10. [Python Challenge9](#PC9)
+11. [Python Challenge10](#PC10)
 
 
 ###Detail:
@@ -79,6 +80,12 @@ Challenge is becoming more and more challenging and attractive.
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge8.py)
 
 ####<a name='PC9'></a>[Python Challenge9](http://www.pythonchallenge.com/pc/return/good.html)
-Todo  
+The page tell us obviously to connect the dots, the only problem is where the dots are.  
+In the source code, there are two list: first and second. It may be the line dots.  
+Get the dot list data and draw two lines, you will get the solution.    
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge9.py)
+
+####<a name='PC10'></a>[Python Challenge10](http://www.pythonchallenge.com/pc/return/bull.html)
+ToDo  
+[Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge10.py)
 
