@@ -86,6 +86,6 @@ Get the dot list data and draw two lines, you will get the solution.
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge9.py)
 
 ####<a name='PC10'></a>[Python Challenge10](http://www.pythonchallenge.com/pc/return/bull.html)
-ToDo  
+A little difficult if in a Pythonic way.   
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge10.py)
 
