@@ -19,6 +19,7 @@ I try to solve on my own, if there is any reference, I will recored it in the *.
 9. [Python Challenge8](#PC8)
 10. [Python Challenge9](#PC9)
 11. [Python Challenge10](#PC10)
+12. [Python Challenge11](#PC11)
 
 
 ###Detail:
@@ -87,5 +88,12 @@ Get the dot list data and draw two lines, you will get the solution.
 
 ####<a name='PC10'></a>[Python Challenge10](http://www.pythonchallenge.com/pc/return/bull.html)
 A little difficult if in a Pythonic way.   
+The key is to find the rule in the patterns.  The pattern represents number counting, one digit for number and one digit for counting.  
+If you find the rule behind it, it's easy to know the next one. A loop could handle all.  BUT it is not Pythonic.  
+Sadly, I could not come up a Pythonic way, so I refered to the Python Challenge Community.   
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge10.py)
+
+####<a name='PC11'></a>[Python Challenge11](http://www.pythonchallenge.com/pc/return/5808.html)
+I found the Challenge becoming more and more difficult and my knowledge about Python is in lack.  So I decide to review Python and learn more, then everything will continue.  
+[Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge11.py)
 
