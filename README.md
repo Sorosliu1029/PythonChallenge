@@ -20,6 +20,7 @@ I try to solve on my own, if there is any reference, I will recored it in the *.
 10. [Python Challenge9](#PC9)
 11. [Python Challenge10](#PC10)
 12. [Python Challenge11](#PC11)
+13. [Python Challenge12](#PC12)
 
 
 ###Detail:
@@ -76,7 +77,8 @@ So get the horizontal area data and convert pixel data to ASCII character.
 
 ####<a name='PC8'></a>[Python Challenge8](http://www.pythonchallenge.com/pc/def/integrity.html)
 This challenge page shows a bee(a hint) and a hyperlink requiring user name and password.  
-The source code containing some **magic** string. It confused me a while, but there is also a hint -- `BZh91AY&SY`. 'BZ' reminds me of Linux compression file suffix *.bz*, so I guess the magic string is compressed by Bz compression format.  
+The source code containing some **magic** string. It confused me a while, but there is also a hint -- `BZh91AY&SY`. 'BZ' reminds me of Linux compression file suffix *.bz*, so I guess the magic string is compressed by Bz compression format.    
+The name is 'huge', and the password is 'file'.  
 Challenge is becoming more and more challenging and attractive.  
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge8.py)
 
@@ -94,6 +96,10 @@ Sadly, I could not come up a Pythonic way, so I refered to the Python Challenge 
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge10.py)
 
 ####<a name='PC11'></a>[Python Challenge11](http://www.pythonchallenge.com/pc/return/5808.html)
-I found the Challenge becoming more and more difficult and my knowledge about Python is in lack.  So I decide to review Python and learn more, then everything will continue.  
+The challenge page title tells all the secrets.  
+At first, I tried odd row-index&even column-index / even row-index&odd column-index, but found out nothing useful. Then tries all odd or all even index, and got an image revealing the key to next challenge.  
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge11.py)
 
+####<a name='PC12'></a>[Python Challenge12](http://www.pythonchallenge.com/pc/return/evil.html)  
+TODO  
+[Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge12.py)
