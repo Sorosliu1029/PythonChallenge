@@ -101,5 +101,6 @@ At first, I tried odd row-index&even column-index / even row-index&odd column-in
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge11.py)
 
 ####<a name='PC12'></a>[Python Challenge12](http://www.pythonchallenge.com/pc/return/evil.html)  
-TODO  
+This one is confusing. I refered to [this bolg](http://blog.csdn.net/kosl90/article/details/7270605), and got the idea.   
+The magic number 5 comes from the *evil1.jpg* showing 5 stacks of cards... Orz....  :imp:  
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge12.py)
