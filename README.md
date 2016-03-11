@@ -104,3 +104,7 @@ At first, I tried odd row-index&even column-index / even row-index&odd column-in
 This one is confusing. I refered to [this bolg](http://blog.csdn.net/kosl90/article/details/7270605), and got the idea.   
 The magic number 5 comes from the *evil1.jpg* showing 5 stacks of cards... Orz....  :imp:  
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge12.py)
+
+####<a name='PC13'></a>[Python Challenge13](http://www.pythonchallenge.com/pc/return/disproportional.html)  
+This one is quite tough for someone doesn't know aobut XML. I refered to online solution. The evil's name is somewhat annoying.  
+[Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge13.py)
