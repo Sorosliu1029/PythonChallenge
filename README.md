@@ -21,7 +21,9 @@ I try to solve on my own, if there is any reference, I will recored it in the *.
 11. [Python Challenge10](#PC10)
 12. [Python Challenge11](#PC11)
 13. [Python Challenge12](#PC12)
-
+14. [Python Challegne13](#PC13)
+15. [Python Challenge14](#PC14)
+16. [Python Challenge15](#PC15)
 
 ###Detail:
 ####<a name='warm_up'></a>[Warm Up](http://www.pythonchallenge.com/pc/def/0.html)
@@ -108,3 +110,11 @@ The magic number 5 comes from the *evil1.jpg* showing 5 stacks of cards... Orz..
 ####<a name='PC13'></a>[Python Challenge13](http://www.pythonchallenge.com/pc/return/disproportional.html)  
 This one is quite tough for someone doesn't know aobut XML. I refered to online solution. The evil's name is somewhat annoying.  
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge13.py)
+
+####<a name='PC14'></a>[Python Challenge14](http://www.pythonchallenge.com/pc/return/italy.html)  
+Here comes a simpler one. From the web page is a bread in clock-wise direction and the original image is just 1 row. The hint says 100 * 100 = 100 + 99 + 99 + 98 + ……, so it is quite obvious to refactor the origin.We ended up in getting a not so cute cat... :cat:  
+[Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge14.py)
+
+####<a name='PC15'></a>[Python Challenge15](http://www.pythonchallenge.com/pc/return/uzi.html)
+TODO  
+[Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge15.py)
