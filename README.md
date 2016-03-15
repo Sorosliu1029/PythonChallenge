@@ -24,6 +24,7 @@ I try to solve on my own, if there is any reference, I will recored it in the *.
 14. [Python Challegne13](#PC13)
 15. [Python Challenge14](#PC14)
 16. [Python Challenge15](#PC15)
+17. [Python Challenge16](#PC16)
 
 ###Detail:
 ####<a name='warm_up'></a>[Warm Up](http://www.pythonchallenge.com/pc/def/0.html)
@@ -116,5 +117,10 @@ Here comes a simpler one. From the web page is a bread in clock-wise direction a
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge14.py)
 
 ####<a name='PC15'></a>[Python Challenge15](http://www.pythonchallenge.com/pc/return/uzi.html)
-TODO  
+The first part of this challenge is easy, just use *datetime* module to match the calendar pattern, notice that the disered year is a leap year.  
+After first part, we get 1756. With the hint 'tomorrow', we get a date: 1756-1-27. Google it, it is Mozart's birthday........:birthday:  
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge15.py)
+
+####<a name='PC16'></a>[Python Challenge16](http://www.pythonchallenge.com/pc/return/mozart.html)
+TODO  
+[Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge16.py)
