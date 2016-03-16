@@ -25,6 +25,7 @@ I try to solve on my own, if there is any reference, I will recored it in the *.
 15. [Python Challenge14](#PC14)
 16. [Python Challenge15](#PC15)
 17. [Python Challenge16](#PC16)
+18. [Python Challenge17](#PC17)
 
 ###Detail:
 ####<a name='warm_up'></a>[Warm Up](http://www.pythonchallenge.com/pc/def/0.html)
@@ -122,5 +123,10 @@ After first part, we get 1756. With the hint 'tomorrow', we get a date: 1756-1-2
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge15.py)
 
 ####<a name='PC16'></a>[Python Challenge16](http://www.pythonchallenge.com/pc/return/mozart.html)
-TODO  
+At first glance, the image format is *.gif*, so it is intuitive to think about getting each frame out. So I tried `Image.tell()` and `Image.seek()`, but there is only one frame.  
+Sadly to google the solution, and it says to align each row's pink bar to the left. Then all done....  
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge16.py)
+
+####<a name='PC17'></a>[Python Challenge17](http://www.pythonchallenge.com/pc/return/romance.html)
+TODO  
+[Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge17.py)
