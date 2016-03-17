@@ -128,5 +128,5 @@ Sadly to google the solution, and it says to align each row's pink bar to the le
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge16.py)
 
 ####<a name='PC17'></a>[Python Challenge17](http://www.pythonchallenge.com/pc/return/romance.html)
-TODO  
+Now challenge goes with stories. :joy: It's time to put a temporary end to this period of practice. In the next coming summer vocation I will try again.  
 [Code Here](https://github.com/Sorosliu1029/PythonChallenge/blob/master/PythonChallenge17.py)
